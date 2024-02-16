@@ -1,4 +1,4 @@
-name: Haoyangmao
+name: Cloud PC
 
 on:
   workflow_dispatch:
